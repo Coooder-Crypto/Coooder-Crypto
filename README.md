@@ -1,17 +1,19 @@
+```
+
+  ______         ____          ___       ______            __   ______          __         
+ /_  __/___     / __ )___     /   |     / ____/___  ____  / /  / ____/___  ____/ /__  _____
+  / / / __ \   / __  / _ \   / /| |    / /   / __ \/ __ \/ /  / /   / __ \/ __  / _ \/ ___/
+ / / / /_/ /  / /_/ /  __/  / ___ |   / /___/ /_/ / /_/ / /  / /___/ /_/ / /_/ /  __/ /    
+/_/  \____/  /_____/\___/  /_/  |_|   \____/\____/\____/_/   \____/\____/\__,_/\___/_/     
+                                                                                           
+
+```                                                           
+                                                               
+                                                                 
+
 ## Hi there 👋
+- 🔭 I’m currently working on AI & Crypto
+- 👯 I’m looking to collaborate on anything Cooool!!
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coooder-Crypto)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**Coooder-Crypto/Coooder-Crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
