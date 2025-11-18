@@ -13,13 +13,13 @@
 ## Hi there, I'm Coooder 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8F87F1&width=435&lines=%F0%9F%8C%B1+Small+lettuce+in+crypto;%F0%9F%A7%A0+Half-full+bucket+splashing+in+AI;%F0%9F%92%BB+Trying+to+be+a+cool+coder)](https://git.io/typing-svg)                                                          
 
+🎨 Front-end engineer exploring design systems, animations, and DX tools / 前端工程师，喜欢做花里胡哨但好玩的 UI 与开发工具
+
 🌱 A learner in crypto / 币圈小韭菜
 
 🧠 Experimenting with federated learning and decentralized systems / 折腾联邦学习与去中心化系统
 
 💻 Writing code that sometimes works / 写一些偶尔能跑的代码
-
-🎨 Front-end engineer exploring design systems, animations, and DX tools / 前端工程师，喜欢做花里胡哨但好玩的 UI 与开发工具
 
 🌍 Believer in open source, privacy, and permissionless innovation / 热爱开源、隐私技术与无许可创新
 
