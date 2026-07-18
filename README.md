@@ -1,43 +1,31 @@
-```
+# Hi, I'm Coooder 👋
 
-  ______         ____          ___       ______            __   ______          __         
- /_  __/___     / __ )___     /   |     / ____/___  ____  / /  / ____/___  ____/ /__  _____
-  / / / __ \   / __  / _ \   / /| |    / /   / __ \/ __ \/ /  / /   / __ \/ __  / _ \/ ___/
- / / / /_/ /  / /_/ /  __/  / ___ |   / /___/ /_/ / /_/ / /  / /___/ /_/ / /_/ /  __/ /    
-/_/  \____/  /_____/\___/  /_/  |_|   \____/\____/\____/_/   \____/\____/\__,_/\___/_/     
-                                                                                           
+**Frontend engineer building local-first AI agents, privacy-first tools, and polished developer experiences.**
 
-```                                                           
-                                                               
+前端工程师，正在探索本地优先的 AI Agent、隐私工具，以及真正好用的开发者体验。
 
-## Hi there, I'm Coooder 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8F87F1&width=435&lines=%F0%9F%8C%B1+Small+lettuce+in+crypto;%F0%9F%A7%A0+Half-full+bucket+splashing+in+AI;%F0%9F%92%BB+Trying+to+be+a+cool+coder)](https://git.io/typing-svg)                                                          
+## What I'm building
 
-🎨 Front-end engineer exploring design systems, animations, and DX tools / 前端工程师，喜欢做花里胡哨但好玩的 UI 与开发工具
+- 🫀 Local-first personal data connectors for AI agents
+- 🧠 Agent tooling, knowledge workflows, and practical AI products
+- ✨ Interactive web experiences with thoughtful motion and design systems
+- 🔐 Open-source projects around privacy and decentralized systems
 
-🌱 A learner in crypto / 币圈小韭菜
+## Selected projects
 
-🧠 Experimenting with federated learning and decentralized systems / 折腾联邦学习与去中心化系统
+| Project | What it does |
+| --- | --- |
+| [vital-agent-sync](https://github.com/Coooder-Crypto/vital-agent-sync) | Local-first Apple Health connector for MCP-compatible agents |
+| [ByteNote](https://github.com/Coooder-Crypto/ByteNote) | Offline-first, collaborative notes with AI assistance and self-hostable sync |
+| [Coooder-Blog](https://github.com/Coooder-Crypto/Coooder-Blog) | Next.js + MDX blog with a Notion-to-content publishing workflow |
+| [web-assistant-frontend](https://github.com/Coooder-Crypto/web-assistant-frontend) | Turns webpages into interactive knowledge bases |
+| [YieldPilot](https://github.com/Coooder-Crypto/YieldPilot) | Treasury stress testing and strategy validation for StableLayer economies |
+| [htmlEffect](https://github.com/Coooder-Crypto/htmlEffect) | A collection of playful HTML and CSS interaction experiments |
 
-💻 Writing code that sometimes works / 写一些偶尔能跑的代码
+## Tools I enjoy
 
-🌍 Believer in open source, privacy, and permissionless innovation / 热爱开源、隐私技术与无许可创新
+`TypeScript` · `React` · `Next.js` · `Node.js` · `Tailwind CSS` · `Swift` · `Solidity`
 
----
+I care about open source, privacy, local-first software, and permissionless innovation.
 
-![image](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-![image](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-![image](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
-![image](https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white)
-![image](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)
-![image](https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KarhouTam/KarhouTam/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KarhouTam/KarhouTam/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KarhouTam/KarhouTam/output/github-contribution-grid-snake.svg">
-</picture>
+📝 [Blog](https://coooder-blog.vercel.app/) · 📫 [GitHub](https://github.com/Coooder-Crypto)
