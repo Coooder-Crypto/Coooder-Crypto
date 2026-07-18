@@ -1,0 +1,58 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="50" y1="20" x2="1160" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="0.48" stop-color="#24104F"/>
+      <stop offset="1" stop-color="#063B4A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="730" y1="65" x2="1080" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A78BFA"/>
+      <stop offset="0.52" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#34D399"/>
+    </linearGradient>
+    <radialGradient id="core" cx="0" cy="0" r="1" gradientTransform="translate(958 158) rotate(90) scale(61)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="0.18" stop-color="#C4B5FD"/>
+      <stop offset="0.55" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#0E7490" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#FFFFFF" stroke-opacity="0.035"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+  <circle cx="1010" cy="60" r="180" fill="#7C3AED" fill-opacity="0.07"/>
+  <circle cx="1125" cy="276" r="210" fill="#06B6D4" fill-opacity="0.06"/>
+
+  <g opacity="0.8" stroke="#22D3EE" stroke-width="2">
+    <path d="M788 93L870 132L958 158L1043 104L1110 151"/>
+    <path d="M804 230L872 194L958 158L1034 220L1125 201"/>
+    <path d="M870 132L872 194M1043 104L1034 220M1110 151L1125 201"/>
+  </g>
+
+  <g fill="#111827" stroke="#A78BFA" stroke-width="3">
+    <circle cx="788" cy="93" r="10"/>
+    <circle cx="804" cy="230" r="10"/>
+    <circle cx="870" cy="132" r="13"/>
+    <circle cx="872" cy="194" r="9"/>
+    <circle cx="1043" cy="104" r="11"/>
+    <circle cx="1034" cy="220" r="13"/>
+    <circle cx="1110" cy="151" r="9"/>
+    <circle cx="1125" cy="201" r="8"/>
+  </g>
+
+  <circle cx="958" cy="158" r="66" fill="url(#core)" opacity="0.62" filter="url(#glow)"/>
+  <circle cx="958" cy="158" r="34" fill="#111827" stroke="#22D3EE" stroke-width="3"/>
+  <path d="M944 171L957 137L972 171M949 158H967" stroke="#EDE9FE" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <text x="72" y="111" fill="#FFFFFF" font-family="Inter, ui-sans-serif, system-ui, -apple-system, sans-serif" font-size="58" font-weight="750" letter-spacing="3">COOODER</text>
+  <text x="75" y="166" fill="url(#accent)" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, monospace" font-size="27" font-weight="700" letter-spacing="7">AGENT BUILDER</text>
+  <text x="76" y="218" fill="#C9D1D9" font-family="Inter, ui-sans-serif, system-ui, -apple-system, sans-serif" font-size="20" letter-spacing="1">LOCAL-FIRST AI  ·  MCP  ·  MEMORY</text>
+  <rect x="75" y="248" width="468" height="2" rx="1" fill="url(#accent)" opacity="0.8"/>
+</svg>
