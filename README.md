@@ -28,7 +28,7 @@ I care less about making a model look impressive and more about making Agent sys
 | System | What I'm exploring |
 | --- | --- |
 | 🫀 **[Vital Agent Sync](https://github.com/Coooder-Crypto/vital-agent-sync)** | A local-first Apple Health connector that exposes user-controlled, scoped context to MCP-compatible Agents. |
-| 🧠 **[MemTable](https://github.com/Coooder-Crypto/mem-table)** | A structured ledger for Agents: confirmed records, timestamps, schemas, aggregation, and source tracing — not another vector-memory wrapper. |
+| 🧠 **MemTable** | A structured ledger for Agents: confirmed records, timestamps, schemas, aggregation, and source tracing — not another vector-memory wrapper. |
 | 📚 **[Oh My Notion](https://github.com/Coooder-Crypto/oh-my-notion)** | A local-first Notion Agent with hybrid retrieval, skill routing, grounded answers, and inspectable memory. |
 
 > **Memory recalls what happened. A ledger computes what changed.**
@@ -44,8 +44,8 @@ I care less about making a model look impressive and more about making Agent sys
 ### Currently contributing
 
 - **[A2A JavaScript SDK #178](https://github.com/a2aproject/a2a-js/issues/178)** — assigned to build public-API compatibility checks for breaking-change detection.
-- **[Agentgateway #673](https://github.com/agentgateway/agentgateway/issues/673)** — implementing maintainer-confirmed, protocol-aware ALPN defaults.
-- **[OpenHands #15583](https://github.com/OpenHands/OpenHands/issues/15583)** — implementing maintainer-approved slash-command parity, starting with `/help`.
+- **[Agentgateway #673](https://github.com/agentgateway/agentgateway/issues/673)** — scope confirmed for protocol-aware ALPN defaults.
+- **[OpenHands #15583](https://github.com/OpenHands/OpenHands/issues/15583)** — approved to implement slash-command parity, starting with `/help`.
 
 ## Agent principles
 
