@@ -17,16 +17,11 @@
 
 ## Hey, I'm Coooder 👋
 
-I'm an **Agent builder** working on systems that stay close to users, their tools, and their data.
+I'm an **Agent systems builder** working on local-first runtimes, MCP/A2A tooling, and auditable memory.
 
 我在构建真正能长期生活在用户身边的 AI Agent：本地优先、可审计、可组合，并且尊重人的控制权。
 
-My current questions are less about “how smart is the model?” and more about:
-
-- How should an Agent connect to personal data without creating another cloud silo?
-- How can memory become structured, queryable, and traceable instead of opaque context?
-- How do MCP tools, skills, and runtimes compose into a reliable everyday system?
-- How can powerful automation still keep consent and human judgment in the loop?
+I care less about making a model look impressive and more about making Agent systems reliable: structured memory, traceable state, composable tools, and automation that keeps people in control.
 
 ## Systems I'm building
 
@@ -38,6 +33,20 @@ My current questions are less about “how smart is the model?” and more about
 
 > **Memory recalls what happened. A ledger computes what changed.**
 
+## Open-source contributions
+
+| Project | Merged contribution |
+| --- | --- |
+| **[First Tree](https://github.com/agent-team-foundation/first-tree/pull/2140)** | Fixed session-operation queue cleanup while preserving per-session FIFO ordering across WebSocket close, with race-regression coverage. |
+| **[AGNTCY Directory](https://github.com/agntcy/dir/pull/1962)** | Added a `CountRecords` gRPC API with distinct-record counting, generated bindings, and database/controller tests. |
+| **[Atomic Agents](https://github.com/Eigenwise/atomic-agents/pull/272)** | Added project-instruction support for multiple AI coding assistants beyond a single vendor workflow. |
+
+### Currently contributing
+
+- **[A2A JavaScript SDK #178](https://github.com/a2aproject/a2a-js/issues/178)** — assigned to build public-API compatibility checks for breaking-change detection.
+- **[Agentgateway #673](https://github.com/agentgateway/agentgateway/issues/673)** — scope confirmed for protocol-aware ALPN defaults.
+- **[OpenHands #15583](https://github.com/OpenHands/OpenHands/issues/15583)** — approved to implement slash-command parity, starting with `/help`.
+
 ## Agent principles
 
 ```text
@@ -47,12 +56,6 @@ composable over monolithic
 consent-aware over always-on
 useful over impressive
 ```
-
-## Open-source work
-
-- Building Agent-first onboarding and MCP infrastructure in [Vital Agent Sync](https://github.com/Coooder-Crypto/vital-agent-sync)
-- Contributing fixes and product improvements to [Hermes Agent](https://github.com/NousResearch/hermes-agent/pulls?q=is%3Apr+author%3ACoooder-Crypto)
-- Experimenting with skills, memory, local runtimes, and human-in-the-loop workflows
 
 ## Toolbox
 
