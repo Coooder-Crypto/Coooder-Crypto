@@ -33,18 +33,13 @@ I care less about making a model look impressive and more about making Agent sys
 
 > **Memory recalls what happened. A ledger computes what changed.**
 
-## Open-source contributions
+## Hackathon awards
 
-| Project | Merged contribution |
+| Project | Recognition |
 | --- | --- |
-| **[First Tree](https://github.com/agent-team-foundation/first-tree/pull/2140)** | Fixed session-operation queue cleanup while preserving per-session FIFO ordering across WebSocket close, with race-regression coverage. |
-| **[AGNTCY Directory](https://github.com/agntcy/dir/pull/1962)** | Added a `CountRecords` gRPC API with distinct-record counting, generated bindings, and database/controller tests. |
-| **[Atomic Agents](https://github.com/Eigenwise/atomic-agents/pull/272)** | Added project-instruction support for multiple AI coding assistants beyond a single vendor workflow. |
-
-### Currently contributing
-
-- **[A2A JavaScript SDK #178](https://github.com/a2aproject/a2a-js/issues/178)** — assigned to build public-API compatibility checks for breaking-change detection.
-- **[OpenHands #15583](https://github.com/OpenHands/OpenHands/issues/15583)** — implemented slash-command parity across [`/help`](https://github.com/OpenHands/OpenHands/pull/16422), [`/condense`](https://github.com/OpenHands/OpenHands/pull/16423), [`/skills`](https://github.com/OpenHands/OpenHands/pull/16424), and [`/feedback`](https://github.com/OpenHands/OpenHands/pull/16425); all four PRs are review-ready.
+| 🥇 **[zk-asset-raffle](https://github.com/Coooder-Crypto/zk-asset-raffle)** | 1st Prize — ETH Beijing 2025 · 1st Prize — Morph Hackathon |
+| 🥈 **[OwnFace](https://github.com/Coooder-Crypto/OwnFace)** | 2nd Prize — ETH Shanghai 2025 |
+| 🥉 **[zkp-discord](https://github.com/Coooder-Crypto/zkp-discord)** | 3rd Prize — ETH Beijing 2024 · 2nd Prize — Scroll Hackathon |
 
 ## Agent principles
 
