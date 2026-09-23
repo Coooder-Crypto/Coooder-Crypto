@@ -41,29 +41,6 @@ I care less about making a model look impressive and more about making Agent sys
 | 🥈 **[OwnFace](https://github.com/Coooder-Crypto/OwnFace)** | 2nd Prize — ETH Shanghai 2025 |
 | 🥉 **[zkp-discord](https://github.com/Coooder-Crypto/zkp-discord)** | 3rd Prize — ETH Beijing 2024 · 2nd Prize — Scroll Hackathon |
 
-## Agent principles
-
-```text
-local over opaque
-inspectable over magical
-composable over monolithic
-consent-aware over always-on
-useful over impressive
-```
-
-## Toolbox
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-</p>
-
 ## Find me
 
 [Blog](https://coooder-blog.vercel.app/) · [X / Twitter](https://x.com/Coooder_Crypto) · [GitHub](https://github.com/Coooder-Crypto)
