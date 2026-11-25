@@ -1,48 +1,50 @@
 <p align="center">
-  <img src="./assets/agent-header.svg" alt="Coooder — Agent Builder" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&height=45&lines=Building+local-first+AI+agents;Giving+agents+useful%2C+auditable+memory;Connecting+personal+data+through+MCP;Making+automation+feel+human" alt="Agent builder focus" />
+  <a href="https://coooder-blog.vercel.app/">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=720&height=42&lines=Hey%2C+I%27m+Coooder+%E2%80%94+Agent+Harness+%26+Fullstack;Memory+recalls+what+happened.+A+ledger+computes+what+changed.;Building+local-first+Agents+that+stay+under+user+control."
+      alt="Coooder typing tagline"
+    />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Agent%20Systems-7C3AED?style=for-the-badge" alt="Agent Systems" />
-  <img src="https://img.shields.io/badge/Protocol-MCP-0891B2?style=for-the-badge" alt="MCP" />
-  <img src="https://img.shields.io/badge/Principle-Local--first-0F766E?style=for-the-badge" alt="Local-first" />
-  <img src="https://img.shields.io/badge/Mode-Open%20Source-18181B?style=for-the-badge&logo=github" alt="Open Source" />
+  <a href="https://coooder-blog.vercel.app/"><img src="https://img.shields.io/badge/Blog-coooder--blog-18181B?style=flat-square" alt="Blog" /></a>
+  <a href="https://x.com/Coooder_Crypto"><img src="https://img.shields.io/badge/X-@Coooder__Crypto-18181B?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:cncoooder@gmail.com"><img src="https://img.shields.io/badge/Email-cncoooder@gmail.com-18181B?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-## Hey, I'm Coooder 👋
+<p align="center">
+  Building verifiable, local-first AI Agent systems — <strong>Context · Execution · Verification</strong>.<br />
+  <sub>Previously AI Agent Intern @ Ant Group &amp; ByteDance · M.Eng. @ BUPT (IEEE ICC / TNSE) · Open-source contributor</sub>
+</p>
 
-I'm an **Agent systems builder** working on local-first runtimes, MCP/A2A tooling, and auditable memory.
+### Building & Highlights
 
-我在构建真正能长期生活在用户身边的 AI Agent：本地优先、可审计、可组合，并且尊重人的控制权。
+- **[Vital Agent Sync](https://github.com/Coooder-Crypto/vital-agent-sync)** — Local-first Apple Health → MCP bridge with SQLite & read auditing
+- **[MemTable](https://github.com/Coooder-Crypto/mem-table)** — Structured, auditable ledger runtime for long-running Agents
+- **[Oh My Notion](https://github.com/Coooder-Crypto/oh-my-notion)** & **Jarvis** — Local-first personal Agent stack & Git-backed Obsidian second brain
+- **[Dark Forest (DFArchon)](https://github.com/dfarchon)** & **Hackathons** — [zk-asset-raffle](https://github.com/Coooder-Crypto/zk-asset-raffle) (1st × 2) · [OwnFace](https://github.com/Coooder-Crypto/OwnFace) (2nd) · [zkp-discord](https://github.com/Coooder-Crypto/zkp-discord) (3rd / 2nd)
 
-I care less about making a model look impressive and more about making Agent systems reliable: structured memory, traceable state, composable tools, and automation that keeps people in control.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,py,java,cpp,react,nextjs,rust,solidity,sqlite,postgres,docker,linux&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,py,java,cpp,react,nextjs,rust,solidity,sqlite,postgres,docker,linux&theme=light" />
+    <img src="https://skillicons.dev/icons?i=ts,py,java,cpp,react,nextjs,rust,solidity,sqlite,postgres,docker,linux&theme=dark" alt="Tech Stack" />
+  </picture>
+</p>
 
-## Systems I'm building
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Coooder-Crypto&theme=transparent&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=E4E4E7&currStreakNum=FAFAFA&sideNums=FAFAFA&dates=A1A1AA" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Coooder-Crypto&theme=transparent&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=6D28D9&sideLabels=27272A&currStreakNum=18181B&sideNums=18181B&dates=52525B" />
+    <img src="https://streak-stats.demolab.com?user=Coooder-Crypto&theme=transparent&hide_border=true&ring=7C3AED&fire=7C3AED" alt="GitHub Streak" />
+  </picture>
+</p>
 
-| System | What I'm exploring |
-| --- | --- |
-| 🫀 **[Vital Agent Sync](https://github.com/Coooder-Crypto/vital-agent-sync)** | A local-first Apple Health connector that exposes user-controlled, scoped context to MCP-compatible Agents. |
-| 🧠 **[MemTable](https://github.com/Coooder-Crypto/mem-table)** | A structured ledger for Agents: confirmed records, timestamps, schemas, aggregation, and source tracing — not another vector-memory wrapper. |
-| 📚 **[Oh My Notion](https://github.com/Coooder-Crypto/oh-my-notion)** | A local-first Notion Agent with hybrid retrieval, skill routing, grounded answers, and inspectable memory. |
-
-> **Memory recalls what happened. A ledger computes what changed.**
-
-## Hackathon awards
-
-| Project | Recognition |
-| --- | --- |
-| 🥇 **[zk-asset-raffle](https://github.com/Coooder-Crypto/zk-asset-raffle)** | 1st Prize — ETH Beijing 2025 · 1st Prize — Morph Hackathon |
-| 🥈 **[OwnFace](https://github.com/Coooder-Crypto/OwnFace)** | 2nd Prize — ETH Shanghai 2025 |
-| 🥉 **[zkp-discord](https://github.com/Coooder-Crypto/zkp-discord)** | 3rd Prize — ETH Beijing 2024 · 2nd Prize — Scroll Hackathon |
-
-## Find me
-
-[Blog](https://coooder-blog.vercel.app/) · [X / Twitter](https://x.com/Coooder_Crypto) · [GitHub](https://github.com/Coooder-Crypto)
-
-<p align="center"><sub>Building Agents that grow useful without growing beyond their users' control.</sub></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Coooder-Crypto&bg_color=0d1117&color=a78bfa&line=7c3aed&point=fafafa&area=true&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Coooder-Crypto&bg_color=ffffff&color=52525b&line=7c3aed&point=18181b&area=true&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Coooder-Crypto&theme=github-compact&area=true&hide_border=true" alt="Contribution Activity Graph" />
+  </picture>
+</p>
