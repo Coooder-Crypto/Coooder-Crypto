@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://coooder-blog.vercel.app/">
+  <a href="https://coooder.space/">
     <img
       src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=720&height=42&lines=Hey%2C+I%27m+Coooder+%E2%80%94+Agent+Harness+%26+Fullstack;Memory+recalls+what+happened.+A+ledger+computes+what+changed.;Building+local-first+Agents+that+stay+under+user+control."
       alt="Coooder typing tagline"
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://coooder-blog.vercel.app/"><img src="https://img.shields.io/badge/Blog-coooder--blog-18181B?style=flat-square" alt="Blog" /></a>
+  <a href="https://coooder.space/"><img src="https://img.shields.io/badge/Website-coooder.space-18181B?style=flat-square" alt="Website" /></a>
   <a href="https://x.com/Coooder_Crypto"><img src="https://img.shields.io/badge/X-@Coooder__Crypto-18181B?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
   <a href="mailto:cncoooder@gmail.com"><img src="https://img.shields.io/badge/Email-cncoooder@gmail.com-18181B?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -23,7 +23,7 @@
 - **[Vital Agent Sync](https://github.com/Coooder-Crypto/vital-agent-sync)** — Local-first Apple Health → MCP bridge with SQLite & read auditing
 - **[MemTable](https://github.com/Coooder-Crypto/mem-table)** — Structured, auditable ledger runtime for long-running Agents
 - **[Oh My Notion](https://github.com/Coooder-Crypto/oh-my-notion)** & **Jarvis** — Local-first personal Agent stack & Git-backed Obsidian second brain
-- **[Dark Forest (DFArchon)](https://github.com/dfarchon)** & **Hackathons** — [zk-asset-raffle](https://github.com/Coooder-Crypto/zk-asset-raffle) (1st × 2) · [OwnFace](https://github.com/Coooder-Crypto/OwnFace) (2nd) · [zkp-discord](https://github.com/Coooder-Crypto/zkp-discord) (3rd / 2nd)
+- **[Dark Forest (DFArchon)](https://github.com/dfarchon)** & **Hackathons** — [zk-asset-raffle](https://github.com/Coooder-Crypto/zk-asset-raffle) (1st × 2) · [OwnFace](https://github.com/Coooder-Crypto/OwnFace) (3rd) · [zkp-discord](https://github.com/Coooder-Crypto/zkp-discord) (3rd / 2nd)
 
 <p align="center">
   <picture>
